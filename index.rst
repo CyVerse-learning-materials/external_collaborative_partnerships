@@ -5,13 +5,15 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**GUIDE NAME**
+**EXTERNAL COLLABORATIVE PARTNERSHIPS**
 ==============
 
-.. #### Comment: If the platform has an ICON place it here
+.. #### Comment: This is material that is already hosted on www.cyverse.org - presented in RTD form. 
 
 Goal
 ----
+
+Closely integrate your research with CyVerse resources
 
 .. #### Comment: If the platform has an ICON place it here
 .. #### Comment: Sort description of goal
@@ -22,10 +24,9 @@ Goal
 	:maxdepth: 2
 
 	Tutorial home <self>
-	First Step <step1.rst>
-	Last Step <step2.rst>
-	Delete this example guide page <example_directives_delete.rst>
-
+	Requesting an External Collaborative Partnership <step1.rst>
+	Working with CyVerse Staff <step2.rst>
+	
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'First Step' with content located in 'step1.rst'.
@@ -35,6 +36,7 @@ Goal
 
 Prerequisites
 -------------
+
 
 
 Downloads, access, and services
