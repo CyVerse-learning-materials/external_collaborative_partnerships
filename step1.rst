@@ -6,26 +6,47 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Section Title
+Requesting a new External Collaborative Partnership
 -------------
 
 .. #### Comment: short description
 
-**Some things to remember about the platform**
+**Examples**
 
+ECPs need to meet |certain requirements| for consideration. 
 
-- reminder one
-- reminder two
+Examples of ECPs include help with:
 
+- Scaling an algorithm
+- Managing large-scale data
+- Creating scalable workflows
+
+**Desired Criteria**
+
+- From a technical perspective, the solution can be implemented using existing components of CyVerse’s CI, requiring minimal software development effort.
+- There is no alternative, workable solution already available through CyVerse or elsewhere.\
+- There is clear evidence that the resulting deliverable(s) has potential to enable science for scientists beyond the applicant’s immediate network of collaborators.
+- The project includes specific efforts to communicate with the broader community about the CyVerse resources used for the project.
+
+**Requirements**
+
+- The applicant is not currently receiving ECP support.
+- Deliverables from the proposed ECP project will remove or reduce a specific computational bottleneck.
+- The applicant has provided a viable plan for executing the project with specific milestones and timeline.
+- The applicant has provided a specific, viable plan for making ECP-facilitated deliverable(s) available to the public through CyVerse.
+- The science is within the scope of CyVerse’s Science Enablement Vision.
+- CyVerse staff estimate that the ECP project can be completed in three months or less, except in special circumstances where a longer timeframe has been justified.
+- CyVerse personnel with necessary expertise to conduct the ECP engagement are available within the next three months.
+- The ECP proposal includes a specific commitment by the applicant of informatician and/or developer time to assist with implementation.
 
 ----
 
-*Descriptive title - reference platform/tool name for searchability*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Getting your Extended Collaborative Partnership supported*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1.
+  1. Fill out the |ECP Form| in the CyVerse User Portal
 
-  2.
+  2. Respond to any comments and make changes to your request
 
 ..
 	#### Comment: Suggested style guide:
@@ -80,3 +101,11 @@ Section Title
 .. |Github Repo Link|  raw:: html
 
    <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+
+.. |certain requirements| raw:: html;
+   <a href="https://www.cyverse.org/criteria-for-assessing-ecs-requests"  target="blank">certain requirements</a>
+   
+.. |form| raw:: html
+
+    <a href="https://user.cyverse.org/forms/3/overview"  target="blank">form</a>
+   
